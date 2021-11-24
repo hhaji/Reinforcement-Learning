@@ -13,4 +13,6 @@
 4- Lecture 4: Dynamil Programming
 
   * Blog: [GridWorld: Dynamic Programming Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html) by Andrej Karpathy   
-  * Blog: [Why Does the Optimal Policy Exist?](https://towardsdatascience.com/why-does-the-optimal-policy-exist-29f30fd51f8c) by Alireza Modirshanechi   
+  * Blog: [Why Does the Optimal Policy Exist?](https://towardsdatascience.com/why-does-the-optimal-policy-exist-29f30fd51f8c) by Alireza Modirshanechi  
+  * Blog: [Optimizing Jack's Car Rental](https://alexkozlov.com/post/jack-car-rental/) by Alexander Kozlov  
+  * Note: [How to Gamble If You Must](https://www.maa.org/sites/default/files/pdf/joma/Volume8/Siegrist/RedBlack.pdf) by Kyle Siegrist   

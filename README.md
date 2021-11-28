@@ -10,9 +10,9 @@
   * Paper: [A Tutorial on Thompson Sampling](https://arxiv.org/pdf/1707.02038.pdf) by Daniel J. Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen   
   * Lecture: [Introduction to Thompson Sampling](https://ieor8100.github.io/mab/Lecture%204.pdf) by Shipra Agrawal and Erik Waingarten  
 
-3- Lecture 2: MDPs & Dynamic Programming:
+3- Lecture 3: MDPs & Dynamic Programming:
 
-  * Slide: [Exploration and Exploitation](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by Hado van Hasselt   
+  * Slide: [MDPs & Dynamic Programming](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by   
 
 4- Lecture 4: Dynamil Programming
 

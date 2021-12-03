@@ -24,7 +24,9 @@
 5- Lecture 5: Model-Free Prediction   
 
   * Slide: [Model-Free Prediction](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%205%20-%20ModelFreePrediction.pdf) by Hado van Hasselt     
-  * Blog: [Introduction to Monte Carlo Methods](https://www.datacamp.com/community/tutorials/tutorial-monte-carlo) by Asael Alonzo Matamoros   
+  * Blog: [Introduction to Monte Carlo Methods](https://www.datacamp.com/community/tutorials/tutorial-monte-carlo) by Asael Alonzo Matamoros  
+  * Blog: [Introduction to Monte Carlo simulation](https://kinder-chen.medium.com/introduction-to-monte-carlo-simulation-156c45ad44f0) by Kinder Chen   
+  * Paper: [Monte Carlo Methods](http://reflect.otago.ac.nz/cosc453/student_tutorials/monte_carlo.pdf) by Jonathan Pengelly   
 
 
 ## Courses

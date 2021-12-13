@@ -2,7 +2,22 @@
 
 1- Lecture 1: Introduction to Reinforcement Learning
   
-  * Slide: [Introduction](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%201%20-%20introduction.pdf) by Hado van Hasselt   
+```
+Required Reading:
+```
+
+* Slide: [Introduction](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%201%20-%20introduction.pdf) by Hado van Hasselt   
+ 
+```
+Suggested Reading:
+```
+ 
+* Blog: [An Introduction to Reinforcement Learning](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/) by Thomas Simonini  
+
+```
+Additional Resources:
+```
+  
 
 2- Lecture 2: Exploration and Exploitation:
 

@@ -17,6 +17,8 @@ Suggested Reading:
 ```
 Additional Resources:
 ```
+
+* Toolkit: [Gym](https://gym.openai.com/) is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
   
 
 2- Lecture 2: Exploration and Exploitation:

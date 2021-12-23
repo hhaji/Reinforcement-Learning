@@ -21,30 +21,74 @@ Additional Resources:
 * Toolkit: [Gym](https://gym.openai.com/) is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
   
 
-2- Lecture 2: Exploration and Exploitation:
+2- Lecture 2: Exploration and Exploitation
 
   * Slide: [Exploration and Exploitation](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%202-%20Exploration%20and%20control_slides.pdf) by Hado van Hasselt   
   * Paper: [A Tutorial on Thompson Sampling](https://arxiv.org/pdf/1707.02038.pdf) by Daniel J. Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen   
   * Lecture: [Introduction to Thompson Sampling](https://ieor8100.github.io/mab/Lecture%204.pdf) by Shipra Agrawal and Erik Waingarten  
 
-3- Lecture 3: MDPs & Dynamic Programming:
+3- Lecture 3: Finite Markov Decision Processes
 
   * Slide: [MDPs & Dynamic Programming](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by Diana Borsa   
 
-4- Lecture 4: Dynamil Programming
+4- Lecture 4: Dynamic Programming
 
   * Blog: [GridWorld: Dynamic Programming Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html) by Andrej Karpathy   
   * Blog: [Why Does the Optimal Policy Exist?](https://towardsdatascience.com/why-does-the-optimal-policy-exist-29f30fd51f8c) by Alireza Modirshanechi  
   * Blog: [Optimizing Jack's Car Rental](https://alexkozlov.com/post/jack-car-rental/) by Alexander Kozlov  
   * Note: [How to Gamble If You Must](https://www.maa.org/sites/default/files/pdf/joma/Volume8/Siegrist/RedBlack.pdf) by Kyle Siegrist   
 
-5- Lecture 5: Model-Free Prediction   
+5- Lecture 5: Monte Carlo Methods  
 
   * Slide: [Model-Free Prediction](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%205%20-%20ModelFreePrediction.pdf) by Hado van Hasselt     
   * Blog: [Introduction to Monte Carlo Methods](https://www.datacamp.com/community/tutorials/tutorial-monte-carlo) by Asael Alonzo Matamoros  
-  * Blog: [Introduction to Monte Carlo simulation](https://kinder-chen.medium.com/introduction-to-monte-carlo-simulation-156c45ad44f0) by Kinder Chen   
+  * Blog: [Introduction to Monte Carlo simulation](https://kinder-chen.medium.com/introduction-to-monte-carlo-simulation-156c45ad44f0) by Kinder Chen  
+  * Blog: [Off Policy Monte Carlo Prediction with Importance sampling](https://shangeth.com/post/off-policy-monte-carlo/) by Shangeth Rajaa    
+
+```
+Suggested Reading:
+```
+
   * Paper: [Monte Carlo Methods](http://reflect.otago.ac.nz/cosc453/student_tutorials/monte_carlo.pdf) by Jonathan Pengelly  
   * Blog: [What is Rejection Sampling?](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d) by Kapil Sachdeva   
+
+6- Lecture 6: Temporal-Diference Learning   
+
+
+
+7- Lecture 7: n-step Bootstrapping    
+
+
+
+8- Lecture 8: Planning and Learning with Tabular Methods   
+
+
+
+9- Lecture 9: On-policy Prediction with Approximation     
+
+
+
+10- Lecture 10: On-policy Control with Approximation        
+
+
+
+11- Lecture 11: Off-policy Methods with Approximation        
+
+
+
+
+12- Lecture 12: Eligibility Traces  
+
+
+
+13- Lecture 13: Policy Gradient Methods 
+
+
+
+
+14- Lecture 14: Applications         
+
+
 
 
 ## Courses

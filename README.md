@@ -62,6 +62,8 @@ Suggested Reading:
 
 8- Lecture 8: Planning and Learning with Tabular Methods   
 
+  * Blog: [Integrating Real and Simulated Data in Dyna-Q Algorithm](https://ranko-mosic.medium.com/online-planning-agent-dyna-q-algorithm-and-dyna-maze-example-sutton-and-barto-2016-7ad84a6dc52b) by Ranko Mosic    
+
 
 
 9- Lecture 9: On-policy Prediction with Approximation     

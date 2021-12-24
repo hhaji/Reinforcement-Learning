@@ -86,11 +86,13 @@ Suggested Reading:
 
 
 
-14- Lecture 14: Applications         
+14- Lecture 14: Applications     
 
+* Slide: [Classic Games](https://www.davidsilver.uk/wp-content/uploads/2020/03/games.pdf) by David Silver    
 
 
 
 ## Courses
 
 * Blog: [Reinforcement Learning Lecture Series 2021 (DeepMind)](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) by Hado van Hasselt, Diana Borsa & Matteo Hessel   
+* Blog: [Reinforcement Learning](https://www.davidsilver.uk/teaching/) by David Silver    

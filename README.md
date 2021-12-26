@@ -91,7 +91,7 @@ Suggested Reading:
 
 
 
-13- Lecture 13: Deep Reinforcement Learning 
+14- Lecture 14: Deep Reinforcement Learning 
 
   * Blog: [Reinforcement Learning with Neural Network](https://www.baeldung.com/cs/reinforcement-learning-neural-network) by Kumar Chandrakant      
   * Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   

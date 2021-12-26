@@ -91,8 +91,13 @@ Suggested Reading:
 
 
 
+13- Lecture 13: Deep Reinforcement Learning 
 
-14- Lecture 14: Applications     
+  * Blog: [Reinforcement Learning with Neural Network](https://www.baeldung.com/cs/reinforcement-learning-neural-network) by Kumar Chandrakant      
+  * Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
+
+
+15- Lecture 15: Applications     
 
 * Slide: [Classic Games](https://www.davidsilver.uk/wp-content/uploads/2020/03/games.pdf) by David Silver    
 
@@ -102,7 +107,6 @@ Suggested Reading:
 
 * Blog: [Reinforcement Learning Lecture Series 2021 (DeepMind)](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) by Hado van Hasselt, Diana Borsa & Matteo Hessel   
 * Blog: [Reinforcement Learning](https://www.davidsilver.uk/teaching/) by David Silver    
-* Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
 
 ## Codes
 

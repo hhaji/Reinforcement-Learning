@@ -18,7 +18,9 @@ Suggested Reading:
 Additional Resources:
 ```
 
-* Toolkit: [Gym](https://gym.openai.com/) is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
+* Toolkit: [Gym](https://gym.openai.com/) is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.  
+* Blog: [Reinforcement Learning Tutorial](https://www.javatpoint.com/reinforcement-learning)   
+* Blog: [Reinforcement Learning: What is, Algorithms, Types & Examples](https://www.guru99.com/reinforcement-learning-tutorial.html) by Daniel Johnson   
   
 
 2- Lecture 2: Exploration and Exploitation
@@ -53,6 +55,8 @@ Suggested Reading:
   * Blog: [What is Rejection Sampling?](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d) by Kapil Sachdeva   
 
 6- Lecture 6: Temporal-Diference Learning   
+
+  * Blog: [Reinforcement Learning Tutorial Part 1: Q-Learning](https://valohai.com/blog/reinforcement-learning-tutorial-part-1-q-learning/) by Juha Kiili   
 
 
 
@@ -98,7 +102,7 @@ Suggested Reading:
 
 * Blog: [Reinforcement Learning Lecture Series 2021 (DeepMind)](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) by Hado van Hasselt, Diana Borsa & Matteo Hessel   
 * Blog: [Reinforcement Learning](https://www.davidsilver.uk/teaching/) by David Silver    
-* Blog: [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
+* Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
 
 ## Codes
 

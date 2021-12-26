@@ -98,6 +98,7 @@ Suggested Reading:
 
 * Blog: [Reinforcement Learning Lecture Series 2021 (DeepMind)](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) by Hado van Hasselt, Diana Borsa & Matteo Hessel   
 * Blog: [Reinforcement Learning](https://www.davidsilver.uk/teaching/) by David Silver    
+* Blog: [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
 
 ## Codes
 

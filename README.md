@@ -13,6 +13,8 @@ Suggested Reading:
 ```
  
 * Blog: [An Introduction to Reinforcement Learning](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/) by Thomas Simonini  
+* Blog:  [Welcome to Spinning Up in Deep RL!](https://spinningup.openai.com/en/latest/) This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
+
 
 ```
 Additional Resources:

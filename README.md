@@ -13,7 +13,7 @@ Suggested Reading:
 ```
  
 * Blog: [An Introduction to Reinforcement Learning](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/) by Thomas Simonini  
-* Blog:  [Welcome to Spinning Up in Deep RL!](https://spinningup.openai.com/en/latest/) This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
+* Blog: [Welcome to Spinning Up in Deep RL!](https://spinningup.openai.com/en/latest/) This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 
 
 ```
@@ -108,8 +108,9 @@ Suggested Reading:
 ## Courses
 
 * Blog: [Reinforcement Learning Lecture Series 2021 (DeepMind)](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) by Hado van Hasselt, Diana Borsa & Matteo Hessel   
-* Blog: [Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) by David Silver   
-        [Reinforcement Learning](https://www.davidsilver.uk/teaching/) by David Silver    
+* Blog: A Course taught by David Silver   
+  - [Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)    
+  - [Reinforcement Learning](https://www.davidsilver.uk/teaching/)     
 
 ## Codes
 

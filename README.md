@@ -108,7 +108,8 @@ Suggested Reading:
 ## Courses
 
 * Blog: [Reinforcement Learning Lecture Series 2021 (DeepMind)](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) by Hado van Hasselt, Diana Borsa & Matteo Hessel   
-* Blog: [Reinforcement Learning](https://www.davidsilver.uk/teaching/) by David Silver    
+* Blog: [Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) by David Silver   
+        [Reinforcement Learning](https://www.davidsilver.uk/teaching/) by David Silver    
 
 ## Codes
 

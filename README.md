@@ -115,3 +115,7 @@ Suggested Reading:
 ## Codes
 
   * Codes: [Reinforcement Learning an Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) by Shangtong Zhang    
+
+## Online Demos
+
+  * Blog: [ConvNetJS Deep Q Learning Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html) by Andrej Karpathy   

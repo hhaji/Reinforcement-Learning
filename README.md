@@ -68,8 +68,15 @@ Suggested Reading:
 
 8- Lecture 8: Planning and Learning with Tabular Methods   
 
-  * Blog: [Integrating Real and Simulated Data in Dyna-Q Algorithm](https://ranko-mosic.medium.com/online-planning-agent-dyna-q-algorithm-and-dyna-maze-example-sutton-and-barto-2016-7ad84a6dc52b) by Ranko Mosic    
+  * Blog: [Integrating Real and Simulated Data in Dyna-Q Algorithm](https://ranko-mosic.medium.com/online-planning-agent-dyna-q-algorithm-and-dyna-maze-example-sutton-and-barto-2016-7ad84a6dc52b) by Ranko Mosic  
 
+```
+Suggested Reading:
+```
+
+  * [Monte Carlo Tree Search – Beginners Guide](https://int8.io/monte-carlo-tree-search-beginners-guide/) by Kamil Czarnogórski    
+  * Blog: [Monte Carlo Tree Search: An Introduction](https://towardsdatascience.com/monte-carlo-tree-search-an-introduction-503d8c04e168) by Benjamin Wang    
+  * Blog: [Introduction to Monte Carlo Tree Search: The Game-Changing Algorithm behind DeepMind's AlphaGo](https://www.analyticsvidhya.com/blog/2019/01/monte-carlo-tree-search-introduction-algorithm-deepmind-alphago/) by Ankit Choudhary   
 
 
 9- Lecture 9: On-policy Prediction with Approximation     

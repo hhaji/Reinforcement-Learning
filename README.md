@@ -82,6 +82,7 @@ Suggested Reading:
 9- Lecture 9: On-policy Prediction with Approximation     
 
   * Blog: [Tile-Coding: An Efficient Sparse-Coding Method for Real-Valued Data](https://medium.com/criteo-engineering/tile-coding-an-efficient-sparse-coding-method-for-real-valued-data-e787eddf630a) by Hamid Maei     
+  * Blog: [State Aggregation with Monte Carlo](https://www.coursera.org/lecture/prediction-control-function-approximation/state-aggregation-with-monte-carlo-aJ9j6)    
 
 10- Lecture 10: On-policy Control with Approximation        
 

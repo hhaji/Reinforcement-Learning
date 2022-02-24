@@ -31,6 +31,12 @@ Additional Resources:
   * Paper: [A Tutorial on Thompson Sampling](https://arxiv.org/pdf/1707.02038.pdf) by Daniel J. Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen   
   * Lecture: [Introduction to Thompson Sampling](https://ieor8100.github.io/mab/Lecture%204.pdf) by Shipra Agrawal and Erik Waingarten  
 
+```
+Suggested Reading:
+```
+
+  * Blog: [Lecture 3: Stochastic Multi-Armed Bandits, Regret Minimization](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf) by Walter Cai, Emisa Nategh, Jennifer Rogers (Lecturer: Kevin Jamieson)       
+
 3- Lecture 3: Finite Markov Decision Processes
 
   * Slide: [MDPs & Dynamic Programming](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by Diana Borsa   

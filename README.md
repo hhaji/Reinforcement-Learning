@@ -35,7 +35,15 @@ Additional Resources:
 Suggested Reading:
 ```
 
-  * Lecture: [Stochastic Multi-Armed Bandits, Regret Minimization](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf) by Walter Cai, Emisa Nategh, Jennifer Rogers (Lecturer: Kevin Jamieson)       
+  * Lecture: [Stochastic Multi-Armed Bandits, Regret Minimization](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf) by Walter Cai, Emisa Nategh, Jennifer Rogers (Lecturer: Kevin Jamieson) 
+  * Blog: [Beta Distribution — Intuition, Examples, and Derivation](https://towardsdatascience.com/beta-distribution-intuition-examples-and-derivation-cf00f4db57af) by Aerin Kim   
+
+```
+Additional Resources:
+```
+
+  * [The Calculator for Beta Distribution](https://homepage.divms.uiowa.edu/~mbognar/applets/beta.html) by Dr. Bognar   
+
 
 3- Lecture 3: Finite Markov Decision Processes
 

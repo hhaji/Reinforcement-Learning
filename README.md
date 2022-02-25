@@ -43,6 +43,7 @@ Additional Resources:
 ```
 
   * [The Calculator for Beta Distribution](https://homepage.divms.uiowa.edu/~mbognar/applets/beta.html) by Dr. Bognar   
+  * [Conjugate Prior Explained: With Examples & Proofs](https://towardsdatascience.com/conjugate-prior-explained-75957dc80bfb) by Aerin Kim      
 
 
 3- Lecture 3: Finite Markov Decision Processes

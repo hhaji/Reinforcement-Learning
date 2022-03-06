@@ -28,6 +28,10 @@ Additional Resources:
 
 2- Lecture 2: Exploration and Exploitation
 
+```
+Required Reading:
+```
+
   * Slide: [Exploration and Exploitation](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%202-%20Exploration%20and%20control_slides.pdf) by Hado van Hasselt   
   * Paper: [A Tutorial on Thompson Sampling](https://arxiv.org/pdf/1707.02038.pdf) by Daniel J. Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen   
   * Lecture: [Introduction to Thompson Sampling](https://ieor8100.github.io/mab/Lecture%204.pdf) by Erik Waingarten (Instructor: Shipra Agrawal)    
@@ -49,16 +53,28 @@ Additional Resources:
 
 3- Lecture 3: Finite Markov Decision Processes
 
+```
+Required Reading:
+```
+
   * Slide: [MDPs & Dynamic Programming](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by Diana Borsa   
 
 4- Lecture 4: Dynamic Programming
+
+```
+Required Reading:
+```
 
   * Blog: [GridWorld: Dynamic Programming Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html) by Andrej Karpathy   
   * Blog: [Why Does the Optimal Policy Exist?](https://towardsdatascience.com/why-does-the-optimal-policy-exist-29f30fd51f8c) by Alireza Modirshanechi  
   * Blog: [Optimizing Jack's Car Rental](https://alexkozlov.com/post/jack-car-rental/) by Alexander Kozlov  
   * Note: [How to Gamble If You Must](https://www.maa.org/sites/default/files/pdf/joma/Volume8/Siegrist/RedBlack.pdf) by Kyle Siegrist   
 
-5- Lecture 5: Monte Carlo Methods  
+5- Lecture 5: Monte Carlo Methods 
+
+```
+Required Reading:
+```
 
   * Slide: [Model-Free Prediction](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%205%20-%20ModelFreePrediction.pdf) by Hado van Hasselt     
   * Blog: [Introduction to Monte Carlo Methods](https://www.datacamp.com/community/tutorials/tutorial-monte-carlo) by Asael Alonzo Matamoros  
@@ -72,7 +88,11 @@ Suggested Reading:
   * Paper: [Monte Carlo Methods](http://reflect.otago.ac.nz/cosc453/student_tutorials/monte_carlo.pdf) by Jonathan Pengelly  
   * Blog: [What is Rejection Sampling?](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d) by Kapil Sachdeva   
 
-6- Lecture 6: Temporal-Diference Learning   
+6- Lecture 6: Temporal-Diference Learning
+
+```
+Required Reading:
+```
 
   * Blog: [Reinforcement Learning Tutorial Part 1: Q-Learning](https://valohai.com/blog/reinforcement-learning-tutorial-part-1-q-learning/) by Juha Kiili   
 
@@ -80,9 +100,17 @@ Suggested Reading:
 
 7- Lecture 7: n-step Bootstrapping    
 
+```
+Required Reading:
+```
 
 
-8- Lecture 8: Planning and Learning with Tabular Methods   
+
+8- Lecture 8: Planning and Learning with Tabular Methods 
+
+```
+Required Reading:
+```
 
   * Blog: [Integrating Real and Simulated Data in Dyna-Q Algorithm](https://ranko-mosic.medium.com/online-planning-agent-dyna-q-algorithm-and-dyna-maze-example-sutton-and-barto-2016-7ad84a6dc52b) by Ranko Mosic  
 
@@ -95,7 +123,11 @@ Suggested Reading:
   * Blog: [Introduction to Monte Carlo Tree Search: The Game-Changing Algorithm behind DeepMind's AlphaGo](https://www.analyticsvidhya.com/blog/2019/01/monte-carlo-tree-search-introduction-algorithm-deepmind-alphago/) by Ankit Choudhary   
 
 
-9- Lecture 9: On-policy Prediction with Approximation     
+9- Lecture 9: On-policy Prediction with Approximation    
+
+```
+Required Reading:
+```
 
   * Blog: [Tile-Coding: An Efficient Sparse-Coding Method for Real-Valued Data](https://medium.com/criteo-engineering/tile-coding-an-efficient-sparse-coding-method-for-real-valued-data-e787eddf630a) by Hamid Maei     
   * Blog: [State Aggregation with Monte Carlo](https://www.coursera.org/lecture/prediction-control-function-approximation/state-aggregation-with-monte-carlo-aJ9j6)    
@@ -108,32 +140,60 @@ Suggested Reading:
   * Blog: [RBF Neural Networks](https://www.dtreg.com/solution/rbf-neural-networks)   
 
 
+10- Lecture 10: On-policy Control with Approximation  
+
+```
+Required Reading:
+```
 
 
-10- Lecture 10: On-policy Control with Approximation        
+11- Lecture 11: Off-policy Methods with Approximation  
+
+```
+Required Reading:
+```
 
 
+```
+Suggested Reading:
+```
 
-11- Lecture 11: Off-policy Methods with Approximation        
+  * Blog: [Tile Coding Software](http://incompleteideas.net/tiles/tiles3.html) by Richard S. Sutton   
 
 
 
 
 12- Lecture 12: Eligibility Traces  
 
+```
+Required Reading:
+```
+
 
 
 13- Lecture 13: Policy Gradient Methods 
 
+```
+Required Reading:
+```
+
 
 
 14- Lecture 14: Deep Reinforcement Learning 
+
+```
+Required Reading:
+```
 
   * Blog: [Reinforcement Learning with Neural Network](https://www.baeldung.com/cs/reinforcement-learning-neural-network) by Kumar Chandrakant      
   * Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
 
 
 15- Lecture 15: Applications     
+
+```
+Required Reading:
+```
 
 * Slide: [Classic Games](https://www.davidsilver.uk/wp-content/uploads/2020/03/games.pdf) by David Silver    
 

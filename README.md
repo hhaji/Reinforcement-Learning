@@ -99,6 +99,16 @@ Suggested Reading:
   * Blog: [Tile-Coding: An Efficient Sparse-Coding Method for Real-Valued Data](https://medium.com/criteo-engineering/tile-coding-an-efficient-sparse-coding-method-for-real-valued-data-e787eddf630a) by Hamid Maei     
   * Blog: [State Aggregation with Monte Carlo](https://www.coursera.org/lecture/prediction-control-function-approximation/state-aggregation-with-monte-carlo-aJ9j6)    
 
+```
+Suggested Reading:
+```
+
+  * Blog: [Radial Basis Function Neural Network Simplified](https://towardsdatascience.com/radial-basis-function-neural-network-simplified-6f26e3d5e04d) by Luthfi Ramadhan   
+  * Blog: [RBF Neural Networks](https://www.dtreg.com/solution/rbf-neural-networks)   
+
+
+
+
 10- Lecture 10: On-policy Control with Approximation        
 
 
@@ -137,7 +147,11 @@ Suggested Reading:
 
 ## Codes
 
-  * Codes: [Reinforcement Learning an Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) by Shangtong Zhang    
+  * Codes: [Reinforcement Learning an Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) by Shangtong Zhang   
+  
+## Papers
+
+  * GitHub: [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers#reinforcement-learning) by Natural Language Processing Lab at Tsinghua University   
 
 ## Online Demos
 

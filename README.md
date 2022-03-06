@@ -6,7 +6,7 @@
 Required Reading:
 ```
 
-* Slide: [Introduction](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%201%20-%20introduction.pdf) by Hado van Hasselt   
+* Slide: [Introduction](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%201%20-%20introduction.pdf) by Hado van Hasselt     
  
 ```
 Suggested Reading:
@@ -185,6 +185,8 @@ Required Reading:
 Required Reading:
 ```
 
+  * Slide: [Deep Reinforcement Learning 1](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2012-%20Deep%20RL%201%20.pdf)  by Hado van Hasselt   
+  * Slide: [Deep Reinforcement Learning 2](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2013%20-%20Deep%20RL%202.pdf)  by Hado van Hasselt   
   * Blog: [Reinforcement Learning with Neural Network](https://www.baeldung.com/cs/reinforcement-learning-neural-network) by Kumar Chandrakant      
   * Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
 

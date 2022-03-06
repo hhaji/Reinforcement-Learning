@@ -129,6 +129,7 @@ Suggested Reading:
 Required Reading:
 ```
 
+  * Slide: [Function Approximation in Reinforcement Learning](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%207-%20Function%20approximation%20in%20reinforcement%20learning%20.pdf) by  Hado van Hasselt     
   * Blog: [Tile-Coding: An Efficient Sparse-Coding Method for Real-Valued Data](https://medium.com/criteo-engineering/tile-coding-an-efficient-sparse-coding-method-for-real-valued-data-e787eddf630a) by Hamid Maei     
   * Blog: [State Aggregation with Monte Carlo](https://www.coursera.org/lecture/prediction-control-function-approximation/state-aggregation-with-monte-carlo-aJ9j6)    
 
@@ -145,6 +146,8 @@ Suggested Reading:
 ```
 Required Reading:
 ```
+
+  * Slide: [Function Approximation in Reinforcement Learning](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%207-%20Function%20approximation%20in%20reinforcement%20learning%20.pdf) by  Hado van Hasselt     
 
 
 11- Lecture 11: Off-policy Methods with Approximation  
@@ -177,6 +180,8 @@ Required Reading:
 Required Reading:
 ```
 
+* Slide: [Policy Gradient](https://www.davidsilver.uk/wp-content/uploads/2020/03/pg.pdf) by David Silver   
+* Slide: [Policy-Gradient & Actor-Critic methods](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%209-%20Policy%20gradients%20and%20actor%20critics.pdf) by  Hado van Hasselt      
 
 
 14- Lecture 14: Deep Reinforcement Learning 
@@ -185,8 +190,8 @@ Required Reading:
 Required Reading:
 ```
 
-  * Slide: [Deep Reinforcement Learning 1](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2012-%20Deep%20RL%201%20.pdf)  by Hado van Hasselt   
-  * Slide: [Deep Reinforcement Learning 2](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2013%20-%20Deep%20RL%202.pdf)  by Hado van Hasselt   
+  * Slide: [Deep Reinforcement Learning 1](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2012-%20Deep%20RL%201%20.pdf)  by Matteo Hessel      
+  * Slide: [Deep Reinforcement Learning 2](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2013%20-%20Deep%20RL%202.pdf) by Matteo Hessel      
   * Blog: [Reinforcement Learning with Neural Network](https://www.baeldung.com/cs/reinforcement-learning-neural-network) by Kumar Chandrakant      
   * Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
 

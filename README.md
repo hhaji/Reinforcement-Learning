@@ -156,6 +156,8 @@ Required Reading:
 Required Reading:
 ```
 
+  * Slide: [Multi-step & Off Policy](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2011-%20Off-policy%20and%20multi-step.pdf) by  Hado van Hasselt     
+
 
 ```
 Suggested Reading:

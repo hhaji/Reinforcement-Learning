@@ -104,6 +104,8 @@ Required Reading:
 Required Reading:
 ```
 
+  * [Multi-step Bootstrapping](https://www.cs.mcgill.ca/~dprecup/courses/RL/Lectures/9-multistep.pdf) by Doina Precup   
+
 
 
 8- Lecture 8: Planning and Learning with Tabular Methods 
@@ -147,7 +149,14 @@ Suggested Reading:
 Required Reading:
 ```
 
-  * Slide: [Function Approximation in Reinforcement Learning](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%207-%20Function%20approximation%20in%20reinforcement%20learning%20.pdf) by  Hado van Hasselt     
+  * Slide: [Function Approximation in Reinforcement Learning](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%207-%20Function%20approximation%20in%20reinforcement%20learning%20.pdf) by  Hado van Hasselt    
+
+```
+Suggested Reading:
+```
+
+  * Blog: [Tile Coding Software](http://incompleteideas.net/tiles/tiles3.html) by Richard S. Sutton   
+  
 
 
 11- Lecture 11: Off-policy Methods with Approximation  
@@ -159,14 +168,6 @@ Required Reading:
   * Slide: [Multi-step & Off Policy](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2011-%20Off-policy%20and%20multi-step.pdf) by  Hado van Hasselt     
 
 
-```
-Suggested Reading:
-```
-
-  * Blog: [Tile Coding Software](http://incompleteideas.net/tiles/tiles3.html) by Richard S. Sutton   
-
-
-
 
 12- Lecture 12: Eligibility Traces  
 
@@ -174,6 +175,7 @@ Suggested Reading:
 Required Reading:
 ```
 
+  * [Eligibility Traces](https://www.cs.utexas.edu/~pstone/Courses/394Rfall16/resources/week6-sutton.pdf) by Doina Precup   
 
 
 13- Lecture 13: Policy Gradient Methods 

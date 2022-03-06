@@ -195,8 +195,17 @@ Required Reading:
   * Blog: [Reinforcement Learning with Neural Network](https://www.baeldung.com/cs/reinforcement-learning-neural-network) by Kumar Chandrakant      
   * Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
 
+15- Lecture 16: Exploration and Exploitation    
 
-15- Lecture 15: Applications     
+```
+Required Reading:
+```
+
+* Slide: [Exploration and Exploitation](https://www.davidsilver.uk/wp-content/uploads/2020/03/XX.pdf) by David Silver  
+
+
+
+16- Lecture 15: Applications     
 
 ```
 Required Reading:

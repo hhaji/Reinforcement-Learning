@@ -230,9 +230,12 @@ Required Reading:
 
   * Codes: [Reinforcement Learning an Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) by Shangtong Zhang   
   
-## Papers
+## Must-Read Papers & Docments
 
-  * GitHub: [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers#reinforcement-learning) by Natural Language Processing Lab at Tsinghua University   
+  * Slide: [Distributed RL](http://rail.eecs.berkeley.edu/deeprlcourse-fa19/static/slides/lec-17.pdf) by Richard Liaw   
+  * PDF: [Acme: A Research Framework for Distributed Reinforcement Learning](https://arxiv.org/pdf/2006.00979.pdf)
+    - Blog: [Acme: A New Framework for Distributed Reinforcement Learning](https://deepmind.com/research/publications/2020/Acme)
+  * GitHub: [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers#reinforcement-learning) by Natural Language Processing Lab at Tsinghua University  
 
 ## Online Demos
 

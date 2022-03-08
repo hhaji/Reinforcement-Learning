@@ -21,6 +21,11 @@ Additional Resources:
 ```
 
 * Toolkit: [Gym](https://gym.openai.com/) is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.  
+  - Blog: [Algorithms](https://gym.openai.com/envs/#algorithmic)
+  - Blog: [Classic control](https://gym.openai.com/envs/#classic_control)
+  - Blog: [Robotics](https://gym.openai.com/envs/#robotics)
+  - Blog: [MuJoCo](https://gym.openai.com/envs/#mujoco)
+  - Blog: [Atari](https://gym.openai.com/envs/#atari)
 * Blog: [Reinforcement Learning Tutorial](https://www.javatpoint.com/reinforcement-learning)   
 * Blog: [Reinforcement Learning: What is, Algorithms, Types & Examples](https://www.guru99.com/reinforcement-learning-tutorial.html) by Daniel Johnson   
 * Blog: [The Unsupervised Reinforcement Learning Benchmark](https://bair.berkeley.edu/blog/2021/12/15/unsupervised-rl/) by Misha Laskin and Denis Yarats   

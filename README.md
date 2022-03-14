@@ -73,7 +73,20 @@ Required Reading:
   * Blog: [GridWorld: Dynamic Programming Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html) by Andrej Karpathy   
   * Blog: [Why Does the Optimal Policy Exist?](https://towardsdatascience.com/why-does-the-optimal-policy-exist-29f30fd51f8c) by Alireza Modirshanechi  
   * Blog: [Optimizing Jack's Car Rental](https://alexkozlov.com/post/jack-car-rental/) by Alexander Kozlov  
-  * Note: [How to Gamble If You Must](https://www.maa.org/sites/default/files/pdf/joma/Volume8/Siegrist/RedBlack.pdf) by Kyle Siegrist   
+  * Note: [How to Gamble If You Must](https://www.maa.org/sites/default/files/pdf/joma/Volume8/Siegrist/RedBlack.pdf) by Kyle Siegrist  
+
+```
+Suggested Reading:
+```
+
+  * Blog: [Overlapping Subproblems Property in Dynamic Programming](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)   
+
+```
+Additional Resources:
+```
+
+  * Algorithms: [Visualizations of Graph Algorithms:](https://algorithms.discrete.ma.tum.de/) Some important algorithms of this area are presented and explained in the following, including both an interactive applet and pseudocode.     
+  * Blog: [Bellman–Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/)   
 
 5- Lecture 5: Monte Carlo Methods 
 

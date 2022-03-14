@@ -70,6 +70,7 @@ Required Reading:
 Required Reading:
 ```
 
+  * Slide: [MDPs & Dynamic Programming](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by Diana Borsa   
   * Blog: [GridWorld: Dynamic Programming Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html) by Andrej Karpathy   
   * Blog: [Why Does the Optimal Policy Exist?](https://towardsdatascience.com/why-does-the-optimal-policy-exist-29f30fd51f8c) by Alireza Modirshanechi  
   * Blog: [Optimizing Jack's Car Rental](https://alexkozlov.com/post/jack-car-rental/) by Alexander Kozlov  

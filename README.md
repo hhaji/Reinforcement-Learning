@@ -79,15 +79,18 @@ Required Reading:
 ```
 Suggested Reading:
 ```
-
-  * Blog: [Overlapping Subproblems Property in Dynamic Programming](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)   
+To get more familiar with dynamic programing, I recommend to read the following blogs:   
+  * Blog: [Overlapping Subproblems Property in Dynamic Programming](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)  
+  * Blog: [Optimal Substructure Property in Dynamic Programming](https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/)     
+  * Blog: [Longest Increasing Subsequence](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)      
+  * Blog: [Longest Common Subsequence](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)  
 
 ```
 Additional Resources:
 ```
 
   * Algorithms: [Visualizations of Graph Algorithms:](https://algorithms.discrete.ma.tum.de/) Some important algorithms of this area are presented and explained in the following, including both an interactive applet and pseudocode.     
-  * Blog: [Bellman–Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/)   
+  * Blog: [Bellman–Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/)    
 
 5- Lecture 5: Monte Carlo Methods 
 

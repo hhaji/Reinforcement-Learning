@@ -1,6 +1,68 @@
 # Reinforcement-Learning
 
-1- Lecture 1: Introduction to Reinforcement Learning
+---
+
+### **Index:**
+- [Course Overview](#Course-Overview)
+- [Main TextBooks](#Main-TextBooks)
+- [Slides and Papers](#Slides-and-Papers)
+  1. Lecture 1: [Introduction to Reinforcement Learning](#Introduction) 
+  2. Lecture 2: [Exploration and Exploitation](#ExplorExploit) 
+  3. Lecture 3: [Finite Markov Decision Processes](#Finite-M)
+  4. Lecture 4: [Dynamic Programming](#DynamicP) 
+  5. Lecture 5: [Monte Carlo Methods](#MonteCM)  
+  6. Lecture 6: [Temporal-Diference Learning](#TemporalD) 
+  7. Lecture 7: [n-step Bootstrapping](#Bootstrapping)   
+  8. Lecture 8: [Planning and Learning with Tabular Methods](#Planning) 
+  9. Lecture 9: [On-policy Prediction with Approximation](#On-policyP) 
+  10. Lecture 10: [On-policy Control with Approximation](#On-policyC) 
+  11. Lecture 11: [Off-policy Methods with Approximation](#Off-policy)
+  12. Lecture 12: [Eligibility Traces](#Eligibility) 
+  13. Lecture 13: [Policy Gradient Methods](#Gradient)  
+  14. Lecture 14: [Deep Reinforcement Learning](#DRL) 
+  15. Lecture 15: [Applications](#Applications) 
+- [Additional Resources](#ANAS)
+- [Class Time and Location](#Class-Time-and-Location)
+  - [Recitation and Assignments](#MTA)  
+- [Projects](#Projects)
+  - [Google Colab](#Google-Colab)
+  - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
+  - [Latex](#Latex)
+- [Grading](#Grading)
+  - [Three Exams](#Three-Exams)
+- [Prerequisites](#Prerequisites)
+  - [Linear Algebra](#Linear-Algebra)
+  - [Probability and Statistics](#Probability-and-Statistics)
+- [Topics](#Topics)
+- [Account](#Account)
+- [Academic Honor Code](#Academic-Honor-Code)
+- [Questions](#Questions)
+- Miscellaneous: 
+     * [Data Handling](https://github.com/hhaji/Deep-Learning/tree/master/Data-Handling)  
+
+---
+
+## <a name="Course-Overview"></a>Course Overview:
+```javascript
+In this course, you will learn the foundations of Reinforcement Learning. To realize the dreams and impact of AI requires autonomous systems that learn to make good decisions. Reinforcement learning is one powerful paradigm for doing so, and it is relevant to an enormous range of tasks, including robotics, game playing, consumer modeling and healthcare.   
+```
+
+## <a name="Main-TextBooks"></a>Main TextBook:
+![Book 1](/Images/RL.jpg)  
+
+```
+Main TextBook:
+```
+
+* [Reinforcement Learning](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) by By Richard S. Sutton and Andrew G. Barto       
+   
+
+## <a name="Slides-and-Papers"></a>Slides and Papers:  
+  Recommended Slides & Papers:
+
+---
+
+1. ### <a name="Introduction"></a>Introduction to Reinforcement Learning   
   
 ```
 Required Reading:
@@ -30,8 +92,7 @@ Additional Resources:
 * Blog: [Reinforcement Learning: What is, Algorithms, Types & Examples](https://www.guru99.com/reinforcement-learning-tutorial.html) by Daniel Johnson   
 * Blog: [The Unsupervised Reinforcement Learning Benchmark](https://bair.berkeley.edu/blog/2021/12/15/unsupervised-rl/) by Misha Laskin and Denis Yarats   
   
-
-2- Lecture 2: Exploration and Exploitation
+2. ### <a name="ExplorExploit"></a>Exploration and Exploitation   
 
 ```
 Required Reading:
@@ -45,6 +106,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+  * Slide: [Exploration and Exploitation](https://www.davidsilver.uk/wp-content/uploads/2020/03/XX.pdf) by David Silver  
   * Lecture: [Stochastic Multi-Armed Bandits, Regret Minimization](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf) by Walter Cai, Emisa Nategh, Jennifer Rogers (Lecturer: Kevin Jamieson) 
   * Blog: [Beta Distribution — Intuition, Examples, and Derivation](https://towardsdatascience.com/beta-distribution-intuition-examples-and-derivation-cf00f4db57af) by Aerin Kim   
 
@@ -55,8 +117,7 @@ Additional Resources:
   * [The Calculator for Beta Distribution](https://homepage.divms.uiowa.edu/~mbognar/applets/beta.html) by Dr. Bognar   
   * [Conjugate Prior Explained: With Examples & Proofs](https://towardsdatascience.com/conjugate-prior-explained-75957dc80bfb) by Aerin Kim      
 
-
-3- Lecture 3: Finite Markov Decision Processes
+3. ### <a name="Finite-M"></a>Finite Markov Decision Processes         
 
 ```
 Required Reading:
@@ -64,7 +125,7 @@ Required Reading:
 
   * Slide: [MDPs & Dynamic Programming](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by Diana Borsa   
 
-4- Lecture 4: Dynamic Programming
+4. ### <a name="DynamicP"></a>Dynamic Programming             
 
 ```
 Required Reading:
@@ -92,7 +153,7 @@ Additional Resources:
   * Algorithms: [Visualizations of Graph Algorithms:](https://algorithms.discrete.ma.tum.de/) Some important algorithms of this area are presented and explained in the following, including both an interactive applet and pseudocode.     
   * Blog: [Bellman–Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/)    
 
-5- Lecture 5: Monte Carlo Methods 
+5. ### <a name="MonteCM"></a>Monte Carlo Methods  
 
 ```
 Required Reading:
@@ -110,7 +171,7 @@ Suggested Reading:
   * Paper: [Monte Carlo Methods](http://reflect.otago.ac.nz/cosc453/student_tutorials/monte_carlo.pdf) by Jonathan Pengelly  
   * Blog: [What is Rejection Sampling?](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d) by Kapil Sachdeva   
 
-6- Lecture 6: Temporal-Diference Learning
+6. ### <a name="TemporalD"></a>Temporal-Diference Learning            
 
 ```
 Required Reading:
@@ -118,9 +179,7 @@ Required Reading:
 
   * Blog: [Reinforcement Learning Tutorial Part 1: Q-Learning](https://valohai.com/blog/reinforcement-learning-tutorial-part-1-q-learning/) by Juha Kiili   
 
-
-
-7- Lecture 7: n-step Bootstrapping    
+7. ### <a name="Bootstrapping"></a>n-step Bootstrapping               
 
 ```
 Required Reading:
@@ -129,8 +188,7 @@ Required Reading:
   * [Multi-step Bootstrapping](https://www.cs.mcgill.ca/~dprecup/courses/RL/Lectures/9-multistep.pdf) by Doina Precup   
 
 
-
-8- Lecture 8: Planning and Learning with Tabular Methods 
+8. ### <a name="Planning"></a>Planning and Learning with Tabular Methods            
 
 ```
 Required Reading:
@@ -146,8 +204,7 @@ Suggested Reading:
   * Blog: [Monte Carlo Tree Search: An Introduction](https://towardsdatascience.com/monte-carlo-tree-search-an-introduction-503d8c04e168) by Benjamin Wang    
   * Blog: [Introduction to Monte Carlo Tree Search: The Game-Changing Algorithm behind DeepMind's AlphaGo](https://www.analyticsvidhya.com/blog/2019/01/monte-carlo-tree-search-introduction-algorithm-deepmind-alphago/) by Ankit Choudhary   
 
-
-9- Lecture 9: On-policy Prediction with Approximation    
+9. ### <a name="On-policyP"></a>On-policy Prediction with Approximation            
 
 ```
 Required Reading:
@@ -164,8 +221,7 @@ Suggested Reading:
   * Blog: [Radial Basis Function Neural Network Simplified](https://towardsdatascience.com/radial-basis-function-neural-network-simplified-6f26e3d5e04d) by Luthfi Ramadhan   
   * Blog: [RBF Neural Networks](https://www.dtreg.com/solution/rbf-neural-networks)   
 
-
-10- Lecture 10: On-policy Control with Approximation  
+10. ### <a name="On-policyC"></a>On-policy Control with Approximation            
 
 ```
 Required Reading:
@@ -180,8 +236,7 @@ Suggested Reading:
   * Blog: [Tile Coding Software](http://incompleteideas.net/tiles/tiles3.html) by Richard S. Sutton   
   
 
-
-11- Lecture 11: Off-policy Methods with Approximation  
+11. ### <a name="Off-policy"></a>Off-policy Methods with Approximation            
 
 ```
 Required Reading:
@@ -190,8 +245,7 @@ Required Reading:
   * Slide: [Multi-step & Off Policy](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2011-%20Off-policy%20and%20multi-step.pdf) by  Hado van Hasselt     
 
 
-
-12- Lecture 12: Eligibility Traces  
+12. ### <a name="Eligibility"></a>Eligibility Traces             
 
 ```
 Required Reading:
@@ -199,8 +253,7 @@ Required Reading:
 
   * [Eligibility Traces](https://www.cs.utexas.edu/~pstone/Courses/394Rfall16/resources/week6-sutton.pdf) by Doina Precup   
 
-
-13- Lecture 13: Policy Gradient Methods 
+13. ### <a name="Gradient"></a>Policy Gradient Methods          
 
 ```
 Required Reading:
@@ -209,8 +262,7 @@ Required Reading:
 * Slide: [Policy Gradient](https://www.davidsilver.uk/wp-content/uploads/2020/03/pg.pdf) by David Silver   
 * Slide: [Policy-Gradient & Actor-Critic methods](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%209-%20Policy%20gradients%20and%20actor%20critics.pdf) by  Hado van Hasselt      
 
-
-14- Lecture 14: Deep Reinforcement Learning 
+14. ### <a name="DRL"></a>Deep Reinforcement Learning            
 
 ```
 Required Reading:
@@ -221,17 +273,7 @@ Required Reading:
   * Blog: [Reinforcement Learning with Neural Network](https://www.baeldung.com/cs/reinforcement-learning-neural-network) by Kumar Chandrakant      
   * Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
 
-15- Lecture 16: Exploration and Exploitation    
-
-```
-Required Reading:
-```
-
-* Slide: [Exploration and Exploitation](https://www.davidsilver.uk/wp-content/uploads/2020/03/XX.pdf) by David Silver  
-
-
-
-16- Lecture 15: Applications     
+15. ### <a name="Applications"></a>Applications             
 
 ```
 Required Reading:
@@ -240,25 +282,92 @@ Required Reading:
 * Slide: [Classic Games](https://www.davidsilver.uk/wp-content/uploads/2020/03/games.pdf) by David Silver    
 
 
-
-## Courses
-
-* Blog: [Reinforcement Learning Lecture Series 2021 (DeepMind)](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) by Hado van Hasselt, Diana Borsa & Matteo Hessel   
-* Blog: A Course taught by David Silver   
-  - [Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)    
-  - [Reinforcement Learning](https://www.davidsilver.uk/teaching/)     
-
-## Codes
-
-  * Codes: [Reinforcement Learning an Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) by Shangtong Zhang   
-  
-## Must-Read Papers & Docments
-
+### <a name="ANAS"></a>Additional Resources:    
+- Papers:  
   * Slide: [Distributed RL](http://rail.eecs.berkeley.edu/deeprlcourse-fa19/static/slides/lec-17.pdf) by Richard Liaw   
   * PDF: [Acme: A Research Framework for Distributed Reinforcement Learning](https://arxiv.org/pdf/2006.00979.pdf)
-    - Blog: [Acme: A New Framework for Distributed Reinforcement Learning](https://deepmind.com/research/publications/2020/Acme)
+  * Blog: [Acme: A New Framework for Distributed Reinforcement Learning](https://deepmind.com/research/publications/2020/Acme)
   * GitHub: [Must-read Papers on GNN](https://github.com/thunlp/GNNPapers#reinforcement-learning) by Natural Language Processing Lab at Tsinghua University  
 
-## Online Demos
-
+- Online Demos:
   * Blog: [ConvNetJS Deep Q Learning Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html) by Andrej Karpathy   
+  
+- Codes:
+  * Codes: [Reinforcement Learning an Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) by Shangtong Zhang   
+
+- Courses: 
+  * Blog: [Reinforcement Learning Lecture Series 2021 (DeepMind)](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) by Hado van Hasselt, Diana Borsa & Matteo Hessel      
+  Blog: A Course taught by David Silver:     
+  * [Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)    
+  * [Reinforcement Learning](https://www.davidsilver.uk/teaching/)     
+
+## <a name="Class-Time-and-Location"></a>Class Time and Location:
+Saturday and Monday 
+
+### <a name="MTA"></a>Recitation and Assignments:
+Tuesday  
+
+## <a name="Projects"></a>Projects:
+Projects are programming assignments that cover the topic of this course. Any project is written by **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python libraries. 
+
+### <a name="Google-Colab"></a>Google Colab:
+[Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
+  - [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br> 
+  - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
+  - [Deep Learning Development with Google Colab, TensorFlow, Keras & PyTorch](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html)
+
+### <a name="Fascinating-Guides-For-Machine-Learning"></a>Fascinating Guides For Machine Learning:
+* [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
+
+### <a name="Latex"></a>Latex:
+The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
+  - A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
+  - Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
+  - Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
+  - [TikZ:](https://github.com/PetarV-/TikZ) A collection Latex files of PGF/TikZ figures (including various neural networks) by Petar Veličković. 
+
+## <a name="Grading"></a>Grading:
+* Projects and Midterm – 50%
+* Endterm – 50%
+
+### <a name="Three-Exams"></a>ُThree Exams:
+
+* First Midterm Examination:  
+* Second Midterm Examination: 
+* Final Examination:  
+
+## <a name="Prerequisites"></a>Prerequisites:
+General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
+Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
+
+### <a name="Linear-Algebra"></a>Linear Algebra:
+* Video: Professor Gilbert Strang's [Video Lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) on linear algebra.
+
+### <a name="Probability-and-Statistics"></a>Probability and Statistics:
+* [Learn Probability and Statistics Through Interactive Visualizations:](https://seeing-theory.brown.edu/index.html#firstPage) Seeing Theory was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
+* [Statistics and Probability:](https://stattrek.com) This website provides training and tools to help you solve statistics problems quickly, easily, and accurately - without having to ask anyone for help.
+* Jupyter NoteBooks: [Introduction to Statistics](https://github.com/rouseguy/intro2stats) by Bargava
+* Video: Professor John Tsitsiklis's [Video Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/) on Applied Probability.
+* Video: Professor Krishna Jagannathan's [Video Lectures](https://nptel.ac.in/courses/108106083/) on Probability Theory.
+
+
+## <a name="Topics"></a>Topics:
+Have a look at some assignments of Stanford students ([Reinforcement Learning](https://web.stanford.edu/class/cs234/assignments.html) 
+to get some general inspiration.
+
+## <a name="Account"></a>Account:
+It is necessary to have a [GitHub](https://github.com/) account to share your projects. It offers 
+plans for both private repositories and free accounts. Github is like the hammer in your toolbox, 
+therefore, you need to have it!
+
+## <a name="Academic-Honor-Code"></a>Academic Honor Code:
+Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
+
+We will follow the standard of Department of Mathematical Sciences approach: 
+* You can get help, but you MUST acknowledge the help on the work you hand in
+* Failure to acknowledge your sources is a violation of the Honor Code
+*  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
+* You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
+
+## <a name="Questions"></a>Questions?
+I will be having office hours for this course on Saturday (09:00 AM--10:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.

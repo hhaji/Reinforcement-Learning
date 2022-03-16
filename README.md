@@ -123,14 +123,19 @@ Required Reading:
 ```
 
   * Slide: [MDPs & Dynamic Programming](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by Diana Borsa   
-
  
 ```
 Suggested Reading:
 ```
 
+  * Blog: [Understanding Markov Chains with the Black Friday Puzzle](https://www.countbayesie.com/blog/2015/11/21/the-black-friday-puzzle-understanding-markov-chains) by Will Kurt    
+
+
+```
+Additional Resources:
+```
+
   * Slide: [An Introduction to Markov Decision Processes](https://engineering.purdue.edu/~givan/talks/mdp-tutorial.pdf) by Bob Givan and Ron Parr    
-  
 
 4. ### <a name="DynamicP"></a>Dynamic Programming             
 

@@ -185,6 +185,12 @@ Required Reading:
 
   * Blog: [Reinforcement Learning Tutorial Part 1: Q-Learning](https://valohai.com/blog/reinforcement-learning-tutorial-part-1-q-learning/) by Juha Kiili   
 
+```
+Suggested Reading:
+```
+
+  * Blog: [Dopamine and Temporal Difference Learning: A Fruitful Relationship Between Neuroscience and AI](https://www.deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI) by Will Dabney and Zeb Kurth-Nelson   
+
 7. ### <a name="Bootstrapping"></a>n-step Bootstrapping               
 
 ```

@@ -190,8 +190,16 @@ Required Reading:
 Suggested Reading:
 ```
 
-  * Blog: [Dopamine and Temporal Difference Learning: A Fruitful Relationship Between Neuroscience and AI](https://www.deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI) by Will Dabney and Zeb Kurth-Nelson   
   * Blog: [Deep Double Q-Learning — Why You Should Use It](https://medium.com/@ameetsd97/deep-double-q-learning-why-you-should-use-it-bedf660d5295) by Ameet Deshpande    
+  * Blog: [5 Steps to Master the Reinforcement Learning with a Q-Learning Python Example](https://www.learnpythonwithrune.org/5-steps-to-master-the-reinforcement-learning-with-a-q-learning-python-example/) by Rune   
+
+
+```
+Additional Resources:
+```
+
+  * Blog: [Dopamine and Temporal Difference Learning: A Fruitful Relationship Between Neuroscience and AI](https://www.deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI) by Will Dabney and Zeb Kurth-Nelson   
+  * Blog: [Temporal-Difference (TD) Learning (Using Gym)](http://christianherta.de/lehre/dataScience/machineLearning/reinforcementLearning/temporal_difference_learning.slides.php) by Christian Herta    
 
 7. ### <a name="Bootstrapping"></a>n-step Bootstrapping               
 
@@ -307,6 +315,14 @@ Required Reading:
 ```
 
 * Slide: [Classic Games](https://www.davidsilver.uk/wp-content/uploads/2020/03/games.pdf) by David Silver    
+
+```
+Additional Resources:
+```
+
+* Blog: [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/) by OpenAI    
+* Blog: [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/) by OpenAI    
+
 
 
 ### <a name="ANAS"></a>Additional Resources:    

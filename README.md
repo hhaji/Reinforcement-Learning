@@ -104,6 +104,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+  * Blog: [Bandit Algorithms](https://banditalgs.com/) by Tor Lattimore and Csaba Szepesvari  
   * Slide: [Exploration and Exploitation](https://www.davidsilver.uk/wp-content/uploads/2020/03/XX.pdf) by David Silver  
   * Lecture: [Stochastic Multi-Armed Bandits, Regret Minimization](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf) by Walter Cai, Emisa Nategh, Jennifer Rogers (Lecturer: Kevin Jamieson) 
   * Blog: [Beta Distribution — Intuition, Examples, and Derivation](https://towardsdatascience.com/beta-distribution-intuition-examples-and-derivation-cf00f4db57af) by Aerin Kim   
@@ -190,6 +191,7 @@ Suggested Reading:
 ```
 
   * Blog: [Dopamine and Temporal Difference Learning: A Fruitful Relationship Between Neuroscience and AI](https://www.deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI) by Will Dabney and Zeb Kurth-Nelson   
+  * Blog: [Deep Double Q-Learning — Why You Should Use It](https://medium.com/@ameetsd97/deep-double-q-learning-why-you-should-use-it-bedf660d5295) by Ameet Deshpande    
 
 7. ### <a name="Bootstrapping"></a>n-step Bootstrapping               
 
@@ -282,8 +284,21 @@ Required Reading:
 
   * Slide: [Deep Reinforcement Learning 1](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2012-%20Deep%20RL%201%20.pdf)  by Matteo Hessel      
   * Slide: [Deep Reinforcement Learning 2](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2013%20-%20Deep%20RL%202.pdf) by Matteo Hessel      
+
+
+```
+Suggested Reading:
+```
+  
+  * Blog: [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy    
   * Blog: [Reinforcement Learning with Neural Network](https://www.baeldung.com/cs/reinforcement-learning-neural-network) by Kumar Chandrakant      
+  
+```
+Additional Resources:
+```
+
   * Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
+
 
 15. ### <a name="Applications"></a>Applications             
 

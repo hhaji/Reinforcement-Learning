@@ -115,6 +115,7 @@ Additional Resources:
 
   * [The Calculator for Beta Distribution](https://homepage.divms.uiowa.edu/~mbognar/applets/beta.html) by Dr. Bognar   
   * [Conjugate Prior Explained: With Examples & Proofs](https://towardsdatascience.com/conjugate-prior-explained-75957dc80bfb) by Aerin Kim      
+  * [Learn Thompson Sampling by Building an Ad Auction!](https://www.countbayesie.com/blog/2020/9/26/learn-thompson-sampling-by-building-an-ad-auction) by Will Kurt    
 
 3. ### <a name="Finite-M"></a>Finite Markov Decision Processes         
 

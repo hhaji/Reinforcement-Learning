@@ -108,14 +108,15 @@ Suggested Reading:
   * Slide: [Exploration and Exploitation](https://www.davidsilver.uk/wp-content/uploads/2020/03/XX.pdf) by David Silver  
   * Lecture: [Stochastic Multi-Armed Bandits, Regret Minimization](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf) by Walter Cai, Emisa Nategh, Jennifer Rogers (Lecturer: Kevin Jamieson) 
   * Blog: [Beta Distribution — Intuition, Examples, and Derivation](https://towardsdatascience.com/beta-distribution-intuition-examples-and-derivation-cf00f4db57af) by Aerin Kim   
+  * Blog: [Conjugate Prior Explained: With Examples & Proofs](https://towardsdatascience.com/conjugate-prior-explained-75957dc80bfb) by Aerin Kim      
 
 ```
 Additional Resources:
 ```
 
-  * [The Calculator for Beta Distribution](https://homepage.divms.uiowa.edu/~mbognar/applets/beta.html) by Dr. Bognar   
-  * [Conjugate Prior Explained: With Examples & Proofs](https://towardsdatascience.com/conjugate-prior-explained-75957dc80bfb) by Aerin Kim      
-  * [Learn Thompson Sampling by Building an Ad Auction!](https://www.countbayesie.com/blog/2020/9/26/learn-thompson-sampling-by-building-an-ad-auction) by Will Kurt    
+  * Tool: [The Calculator for Beta Distribution](https://homepage.divms.uiowa.edu/~mbognar/applets/beta.html) by Dr. Bognar    
+  * Tool: [Probability Distribution Explorer:](https://distribution-explorer.github.io/index.html) This is a tool for you to explore commonly used probability distributions, including information about the stories behind them (e.g., the outcome of a coin flip is Bernoulli distributed), their probability mass/probability density functions, their moments, etc.   
+  * Blog: [Learn Thompson Sampling by Building an Ad Auction!](https://www.countbayesie.com/blog/2020/9/26/learn-thompson-sampling-by-building-an-ad-auction) by Will Kurt    
 
 3. ### <a name="Finite-M"></a>Finite Markov Decision Processes         
 

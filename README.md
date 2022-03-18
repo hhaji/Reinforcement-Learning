@@ -120,7 +120,9 @@ Additional Resources:
   * Tool: [Probability Distribution Explorer:](https://distribution-explorer.github.io/index.html) This is a tool for you to explore commonly used probability distributions, including information about the stories behind them (e.g., the outcome of a coin flip is Bernoulli distributed), their probability mass/probability density functions, their moments, etc.   
   * Blog: [Learn Thompson Sampling by Building an Ad Auction!](https://www.countbayesie.com/blog/2020/9/26/learn-thompson-sampling-by-building-an-ad-auction) by Will Kurt    
   * Toolkit: [Multi-armed Bandit Demo](https://mark.reid.name/code/bandits/) by Mark Reid   
-  * Code (Python): [Reinforcement Learning: The K-armed bandit problem](https://blog.dominodatalab.com/k-armed-bandit-problem) by  Nikolay Manchev   
+  * Code (Python): [Reinforcement Learning: The K-armed bandit problem](https://blog.dominodatalab.com/k-armed-bandit-problem) by  Nikolay Manchev  
+  * Code (Python): [Multi-Armed Bandit Python Example using UCB](https://www.hackdeploy.com/multi-armed-bandit-python-example-using-ucb/) by HackDeploy  
+  * Code (Python): [Multi-Armed Bandits: Epsilon-Greedy Algorithm with Python Code](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) by  Artemis Nika        
 
 3. ### <a name="Finite-M"></a>Finite Markov Decision Processes         
 

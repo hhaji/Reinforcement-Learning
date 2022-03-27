@@ -333,6 +333,7 @@ Required Reading:
 Additional Resources:
 ```
 
+* Blog: [Applications](https://www.davidsilver.uk/applications/) by David Silver   
 * Blog: [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/) by OpenAI    
 * Blog: [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/) by OpenAI    
 

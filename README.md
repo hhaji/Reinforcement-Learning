@@ -137,6 +137,7 @@ Suggested Reading:
 ```
 
   * Blog: [Understanding Markov Chains with the Black Friday Puzzle](https://www.countbayesie.com/blog/2015/11/21/the-black-friday-puzzle-understanding-markov-chains) by Will Kurt    
+  * Blog: [The Intuition Behind Markov Chains](https://towardsdatascience.com/the-intuition-behind-markov-chains-713e6ec6ce92) by Kyle Chan   
 
 
 ```

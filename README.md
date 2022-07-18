@@ -80,8 +80,7 @@ Suggested Reading:
 ```
 Additional Resources:
 ```
-
-* Toolkit: [Welcome to Spinning Up in Deep RL!](https://spinningup.openai.com/en/latest/) This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).   
+ 
 * Toolkit: [Gym](https://gym.openai.com/) is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.  
   - Blog: [Algorithms](https://gym.openai.com/envs/#algorithmic)
   - Blog: [Classic Control](https://gym.openai.com/envs/#classic_control)
@@ -319,6 +318,7 @@ Suggested Reading:
 Additional Resources:
 ```
 
+  * Toolkit: [Welcome to Spinning Up in Deep RL!](https://spinningup.openai.com/en/latest/) This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).  
   * Blog: [A Free course in Deep Reinforcement Learning from Beginner to Expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) Thomas Simonini   
 
 

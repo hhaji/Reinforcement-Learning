@@ -119,6 +119,7 @@ Additional Resources:
   * Tool: [The Calculator for Beta Distribution](https://homepage.divms.uiowa.edu/~mbognar/applets/beta.html) by Dr. Bognar    
   * Tool: [Probability Distribution Explorer:](https://distribution-explorer.github.io/index.html) This is a tool for you to explore commonly used probability distributions, including information about the stories behind them (e.g., the outcome of a coin flip is Bernoulli distributed), their probability mass/probability density functions, their moments, etc.   
   * Blog: [Learn Thompson Sampling by Building an Ad Auction!](https://www.countbayesie.com/blog/2020/9/26/learn-thompson-sampling-by-building-an-ad-auction) by Will Kurt    
+  * Blog: [Do You Know Credible Interval](https://towardsdatascience.com/do-you-know-credible-interval-e5b833adf399) by Shaw Lu  
   * Toolkit: [Multi-armed Bandit Demo](https://mark.reid.name/code/bandits/) by Mark Reid   
   * Code (Python): [Reinforcement Learning: The K-armed bandit problem](https://blog.dominodatalab.com/k-armed-bandit-problem) by  Nikolay Manchev  
   * Code (Python): [Multi-Armed Bandit Python Example using UCB](https://www.hackdeploy.com/multi-armed-bandit-python-example-using-ucb/) by HackDeploy  

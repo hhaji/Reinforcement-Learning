@@ -207,7 +207,8 @@ Suggested Reading:
 ```
 
   * Blog: [Deep Double Q-Learning — Why You Should Use It](https://medium.com/@ameetsd97/deep-double-q-learning-why-you-should-use-it-bedf660d5295) by Ameet Deshpande    
-  * Blog: [5 Steps to Master the Reinforcement Learning with a Q-Learning Python Example](https://www.learnpythonwithrune.org/5-steps-to-master-the-reinforcement-learning-with-a-q-learning-python-example/) by Rune   
+  * Blog: [5 Steps to Master the Reinforcement Learning with a Q-Learning Python Example](https://www.learnpythonwithrune.org/5-steps-to-master-the-reinforcement-learning-with-a-q-learning-python-example/) by Rune
+  * Blog: [Reinforcement Learning — Generalisation of Continuing Tasks](https://towardsdatascience.com/reinforcement-learning-generalisation-on-continuing-tasks-ffb9a89d57d0) by Jeremy Zhang 
 
 
 ```

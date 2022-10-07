@@ -158,7 +158,7 @@ Required Reading:
   * Blog: [Why Does the Optimal Policy Exist?](https://towardsdatascience.com/why-does-the-optimal-policy-exist-29f30fd51f8c) by Alireza Modirshanechi  
   * Blog: [Optimizing Jack's Car Rental](https://alexkozlov.com/post/jack-car-rental/) by Alexander Kozlov  
   * Note: [How to Gamble If You Must](https://www.maa.org/sites/default/files/pdf/joma/Volume8/Siegrist/RedBlack.pdf) by Kyle Siegrist  
-  * Blog: [Hyperbolic Discounting — The Irrational Behavior That Might be Rational After All][https://chris-said.io/2018/02/04/hyperbolic-discounting/] by Chris Said 
+  * Blog: [Hyperbolic Discounting — The Irrational Behavior That Might be Rational After All](https://chris-said.io/2018/02/04/hyperbolic-discounting/) by Chris Said 
 
 ```
 Suggested Reading:

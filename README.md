@@ -21,6 +21,7 @@
   13. Lecture 13: [Policy Gradient Methods](#Gradient)  
   14. Lecture 14: [Deep Reinforcement Learning](#DRL) 
   15. Lecture 15: [Applications](#Applications) 
+  16. Lecture 16: [Useful Toolkits and Libraries](#LibFram) 
 - [Additional Resources](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
   - [Recitation and Assignments](#MTA)  
@@ -81,12 +82,6 @@ Suggested Reading:
 Additional Resources:
 ```
  
-* Toolkit: [Gym](https://gym.openai.com/) is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.  
-  - Blog: [Algorithms](https://gym.openai.com/envs/#algorithmic)
-  - Blog: [Classic Control](https://gym.openai.com/envs/#classic_control)
-  - Blog: [Robotics](https://gym.openai.com/envs/#robotics)
-  - Blog: [MuJoCo](https://gym.openai.com/envs/#mujoco)
-  - Blog: [Atari](https://gym.openai.com/envs/#atari)
 * Blog: [Reinforcement Learning Tutorial](https://www.javatpoint.com/reinforcement-learning)   
 * Blog: [Reinforcement Learning: What is, Algorithms, Types & Examples](https://www.guru99.com/reinforcement-learning-tutorial.html) by Daniel Johnson   
 * Blog: [The Unsupervised Reinforcement Learning Benchmark](https://bair.berkeley.edu/blog/2021/12/15/unsupervised-rl/) by Misha Laskin and Denis Yarats   
@@ -342,7 +337,30 @@ Additional Resources:
 * Blog: [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/) by OpenAI    
 * Blog: [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/) by OpenAI    
 
+16. ### <a name="LibFram"></a>Useful Toolkits and Libraries       
+      
+```
+Required Reading:
+```
 
+* Toolkit: [Gym](https://gym.openai.com/) is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.  
+  - Blog: [Algorithms](https://gym.openai.com/envs/#algorithmic)
+  - Blog: [Classic Control](https://gym.openai.com/envs/#classic_control)
+  - Blog: [Robotics](https://gym.openai.com/envs/#robotics)
+  - Blog: [MuJoCo](https://gym.openai.com/envs/#mujoco)
+  - Blog: [Atari](https://gym.openai.com/envs/#atari)
+  - Blog: [Wrappers](https://www.gymlibrary.dev/api/wrappers/) 
+
+```
+Suggested Reading:
+```
+
+* Python Package: [Deque in Python](https://www.geeksforgeeks.org/deque-in-python/)     
+
+```
+Additional Resources:
+```
+ 
 
 ### <a name="ANAS"></a>Additional Resources:    
 - Papers:  

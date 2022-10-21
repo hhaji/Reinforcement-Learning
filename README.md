@@ -355,7 +355,7 @@ Required Reading:
 Suggested Reading:
 ```
 
-* Python Package: [Deque in Python](https://www.geeksforgeeks.org/deque-in-python/)     
+* Python Module: [Deque in Python](https://www.geeksforgeeks.org/deque-in-python/)     
 
 ```
 Additional Resources:

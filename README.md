@@ -69,6 +69,7 @@ Main TextBook:
 Required Reading:
 ```
 
+* Slide: [An Introduction to Reinforcement Learning](https://github.com/hhaji/Reinforcement-Learning/blob/83fb80c9c0ca879e620c0160c99841f18e46b2b8/Images/Introduction_RL.pdf) by Hossein Hajiabolhassan  
 * Slide: [Introduction](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%201%20-%20introduction.pdf) by Hado van Hasselt     
  
 ```

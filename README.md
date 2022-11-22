@@ -93,6 +93,7 @@ Additional Resources:
 Required Reading:
 ```
 
+  * Slide: [An Introduction to Reinforcement Learning](https://github.com/hhaji/Reinforcement-Learning/blob/83fb80c9c0ca879e620c0160c99841f18e46b2b8/Images/Introduction_RL.pdf) by Hossein Hajiabolhassan  
   * Slide: [Exploration and Exploitation](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%202-%20Exploration%20and%20control_slides.pdf) by Hado van Hasselt   
   * Paper: [A Tutorial on Thompson Sampling](https://arxiv.org/pdf/1707.02038.pdf) by Daniel J. Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen   
   * Lecture: [Introduction to Thompson Sampling](https://ieor8100.github.io/mab/Lecture%204.pdf) by Erik Waingarten (Instructor: Shipra Agrawal)    
@@ -127,6 +128,7 @@ Additional Resources:
 Required Reading:
 ```
 
+  * Slide: [Dynamic Programming](https://github.com/hhaji/Reinforcement-Learning/blob/main/Images/DynamicPrograming.pdf) by Hossein Hajiabolhassan  
   * Slide: [MDPs & Dynamic Programming](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by Diana Borsa   
  
 ```
@@ -149,6 +151,7 @@ Additional Resources:
 Required Reading:
 ```
 
+  * Slide: [Dynamic Programming](https://github.com/hhaji/Reinforcement-Learning/blob/main/Images/DynamicPrograming.pdf) by Hossein Hajiabolhassan  
   * Slide: [MDPs & Dynamic Programming](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) by Diana Borsa   
   * Blog: [GridWorld: Dynamic Programming Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html) by Andrej Karpathy   
   * Blog: [Why Does the Optimal Policy Exist?](https://towardsdatascience.com/why-does-the-optimal-policy-exist-29f30fd51f8c) by Alireza Modirshanechi  

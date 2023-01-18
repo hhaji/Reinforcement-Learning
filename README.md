@@ -359,12 +359,13 @@ Required Reading:
 Suggested Reading:
 ```
 
-* Python Module: [Deque in Python](https://www.geeksforgeeks.org/deque-in-python/)     
+* Python Module: [Deque in Python](https://www.geeksforgeeks.org/deque-in-python/)    
 
 ```
 Additional Resources:
 ```
  
+* Package: [Highway-env’s Documentation](https://highway-env.readthedocs.io/en/latest/index.html#)  provides a collection of environment for decision-making in Autonomous Driving.
 
 ### <a name="ANAS"></a>Additional Resources:    
 - Papers:  

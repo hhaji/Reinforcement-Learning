@@ -359,6 +359,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+* Blog: [Tutorial: writing a custom OpenAI Gym environment](https://vadim.me/publications/heartpole/) by Vadim Liventsev   
 * Python Module: [Deque in Python](https://www.geeksforgeeks.org/deque-in-python/)    
 
 ```
